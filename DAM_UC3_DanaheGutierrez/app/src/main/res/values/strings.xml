@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAM_UC3_DanaheGutierrez</string>
+    <string name="checkbox_nocerrarsesion">No cerrar sesión</string>
+    <string name="radiobutton_femenino">Femenino</string>
+    <string name="radiobutton_masculino">Masculino</string>
+    <string name="button_registrate">Regístrate</string>
+</resources>
